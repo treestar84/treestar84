@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">treestar84</title>
+  <desc id="desc">A charcoal nickname banner with a lime accent and orbital pattern.</desc>
+  <rect width="1200" height="320" rx="16" fill="#111410"/>
+  <path d="M864 0v320M960 0v320M1056 0v320M1152 0v320M816 64h384M816 160h384M816 256h384" stroke="#293025"/>
+  <circle cx="1008" cy="160" r="110" fill="none" stroke="#434e39"/>
+  <circle cx="1008" cy="160" r="68" fill="none" stroke="#72835e"/>
+  <circle cx="1008" cy="160" r="28" fill="#d1f59b"/>
+  <circle cx="1008" cy="50" r="7" fill="#d1f59b"/>
+  <circle cx="1118" cy="160" r="4" fill="#72835e"/>
+  <text x="54" y="197" fill="#f4f6ef" font-family="Arial, Helvetica, sans-serif" font-size="136" font-weight="700" letter-spacing="-5">treestar84<tspan fill="#d1f59b">.</tspan></text>
+</svg>

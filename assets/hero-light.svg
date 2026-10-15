@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">treestar84</title>
+  <desc id="desc">A warm paper nickname banner with a green accent and orbital pattern.</desc>
+  <rect width="1200" height="320" rx="16" fill="#f2f1e9"/>
+  <path d="M864 0v320M960 0v320M1056 0v320M1152 0v320M816 64h384M816 160h384M816 256h384" stroke="#dcdfd1"/>
+  <circle cx="1008" cy="160" r="110" fill="none" stroke="#b1bba4"/>
+  <circle cx="1008" cy="160" r="68" fill="none" stroke="#83946d"/>
+  <circle cx="1008" cy="160" r="28" fill="#376a29"/>
+  <circle cx="1008" cy="50" r="7" fill="#376a29"/>
+  <circle cx="1118" cy="160" r="4" fill="#83946d"/>
+  <text x="54" y="197" fill="#1b251b" font-family="Arial, Helvetica, sans-serif" font-size="136" font-weight="700" letter-spacing="-5">treestar84<tspan fill="#376a29">.</tspan></text>
+</svg>

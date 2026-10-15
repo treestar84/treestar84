@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">treestar84</title>
+  <desc id="desc">A terminal-inspired nickname banner showing whoami and treestar84.</desc>
+  <rect width="1200" height="320" rx="16" fill="#0d1713"/>
+  <path d="M0 55h1200" stroke="#2f4637"/>
+  <circle cx="30" cy="28" r="5" fill="#64816e"/><circle cx="51" cy="28" r="5" fill="#64816e"/><circle cx="72" cy="28" r="5" fill="#64816e"/>
+  <text x="600" y="34" text-anchor="middle" fill="#a6c8b0" font-family="ui-monospace, 'Courier New', monospace" font-size="16">treestar84</text>
+  <text x="48" y="112" fill="#a6c8b0" font-family="ui-monospace, 'Courier New', monospace" font-size="26">$ whoami</text>
+  <text x="48" y="235" fill="#b9f7b5" font-family="ui-monospace, 'Courier New', monospace" font-size="108" font-weight="700">treestar84.</text>
+  <rect x="800" y="152" width="15" height="88" fill="#b9f7b5"/>
+</svg>
