@@ -19,6 +19,16 @@
 
 `TypeScript` · `JavaScript` · `Rust` · `Bun` · `SQLite`
 
+## Activity
+
+<a href="https://github.com/Platane/snk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/treestar84/treestar84/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/treestar84/treestar84/output/github-snake.svg">
+    <img alt="Animated contribution graph for treestar84" src="https://raw.githubusercontent.com/treestar84/treestar84/output/github-snake.svg" width="100%">
+  </picture>
+</a>
+
 ---
 
 <sub>[@treestar84](https://github.com/treestar84)</sub>
